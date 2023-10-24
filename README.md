@@ -5,7 +5,7 @@
 
 <hr>
 
-## My projects
+## Resources
 - [`Website` LegacyStrike website.](https://github.com/Anassm/legacystrike-web)
 - [`Web-server` LegacyStrike back-end.](https://github.com/Anassm/legacystrike-backend)
 - [`Parser` LegacyStrike demo-file parser.](https://github.com/Anassm/demofile-parser)
